@@ -2,7 +2,7 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 
 * [Dirk Kelly](http://codenow-dirk.github.com)
 * [Iftekar Rafi](http://iftekarrafi.github.com)
-* [Afroza Ahmed](http://afrozahmed98.github.io/)
+* [Afroza Ahmed](http://afrozahmed98.github.io/afrozahmed98)
 * [Fernando Franco](http://fendi626.github.io)
 * [Jason Zhang](http://jasonzxzhang.github.io)
 * [Julius Osagiede](http://Osagiede.github.io)
@@ -12,7 +12,7 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 * [Mamadou & Naji](http://naji.github.io/ourwebsite.io/)
 * [Liliana Campuzano](http://MystG.github.io)
 * [Gary Tse](http://gtse6502.github.io)
-* [Dene Morgan](http://youmadornah.github.io)
+* [Dene Morgan](http://youmadornah.github.io/idk)
 * [Marcus Robinson](http://TheRobin1226.github.io)
 * [Rahat & Solomon](http://rahathossan.github.io)
 * [Ibnat Iqbal](http://ibnatiqbal.github.io)
@@ -20,3 +20,4 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 * [Jimmy Lau](http://noknowledge.github.io/)
 * [Hui Wah Chiang](http://hwwc518.github.io)
 * [Timani Buchanan](http://timanib.github.io)
+* [Eudeirys Espinal]( http://eudeirys.github.io)
